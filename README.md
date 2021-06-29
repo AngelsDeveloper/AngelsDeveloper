@@ -24,5 +24,3 @@
 
 [comment]: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelsDeveloper&langs_count=5&theme=nightowl&hide=c%23"> 
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=AngelsDeveloperf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
