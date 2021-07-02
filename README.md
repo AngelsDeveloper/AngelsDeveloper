@@ -6,7 +6,7 @@
 - Meu estado atual é Minas Gerais.
 - Eu amo programação, me dedico todo dia a aprender algo novo.
 - Fique avontade para fazer criticas construtivas, assim para eu aprender mais.
-- Discord: Angels#0800
+- Discord: <b>Angels#0800</b>
 
 ## 🔱  Linguagens 🔱
 
