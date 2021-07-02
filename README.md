@@ -5,7 +5,7 @@
 - Meu nome é Angels e tenho 15 anos.
 - Meu estado atual é Minas Gerais.
 - Eu amo programação, me dedico todo dia a aprender algo novo.
-- Fique a vontade para fazer criticas construtivas, assim para eu aprender mais.
+- Fique a vontade para fazer criticas construtivas, assim eu aprendo mais.
 - Discord: <b>Angels#0800</b>
 
 ## 🔱  Linguagens 🔱
