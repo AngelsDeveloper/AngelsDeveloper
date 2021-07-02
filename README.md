@@ -22,5 +22,5 @@
 
 ## 🌌 Outros 🌌
 
-[comment]: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelsDeveloper&langs_count=5&theme=nightowl&hide=c%23"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelsDeveloper&langs_count=5&theme=nightowl&hide=c%23"> 
 
