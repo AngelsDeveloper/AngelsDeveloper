@@ -12,12 +12,6 @@
 
 - <img align="center" src="https://img.shields.io/badge/Lua-1010b5?style=for-the-badge&logo=lua&logoColor=white" /> 
 
-## 🔱 Futuro próximo 🔱
-
-- <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-- <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
 ## 🪐 Projetos 🪐
 
 - <a href="https://github.com/AngelsDeveloper/biblioteca_cpf">Biblioteca para CPFs</a>
