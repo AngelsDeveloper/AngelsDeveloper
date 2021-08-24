@@ -19,6 +19,8 @@
 ## 🪐 Repository 🪐
 
 - <a href="https://github.com/AngelsDeveloper/biblioteca_cpf">Library CPF</a>
+- <a href="https://github.com/AngelsDeveloper/jogo_da_velha">Tic Tac Toe</a>
+
 
 ## 🌌 Others 🌌
 
