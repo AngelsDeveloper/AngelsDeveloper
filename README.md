@@ -13,7 +13,7 @@
 
 - <img align="center" src="https://img.shields.io/badge/Lua-1010b5?style=for-the-badge&logo=lua&logoColor=white"/> 
 - <img align="center" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
-- <img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+- <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 - <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
 ## 🪐 Repository 🪐
